@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color:#eee;
+  font-family: sans-serif;
+  font-weight: 300;
+  color: #111;
+  line-height: 2rem;
+}
+
+
+
+h1, h2, h3 {
+  color: #111;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+
+}
+
+#img-div {
+  background-color: white;
+  margin: 0 10rem 0 10rem;
+  padding: 1rem;
+  border-radius: 5%;
+}
+
+#tribute-info {
+  max-width: 85vmin;
+margin: auto;
+text-align: left;
+}
+
+li {
+  padding: 1rem 0 0 1rem;
+}
+
+footer {
+  padding: 5rem;
+  font-color:#ccc;
+}
